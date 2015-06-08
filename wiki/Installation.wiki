@@ -41,7 +41,7 @@ To update, use standard git commands. This isn't the right place for a git tutor
 
 == Unofficial releases ==
 
-If you don't like the idea of getting get_flash_videos from git, njtaylor kindly provides downloads of unofficial get_flash_videos releases from [https://github.com/njtaylor/get-flash-videos/downloads njtaylor's github page].
+If you don't like the idea of getting get_flash_videos from git, njtaylor kindly provides downloads of unofficial get_flash_videos releases from [https://github.com/njtaylor/get-flash-videos/releases njtaylor's github page].
 
 == Debian / Ubuntu packaged version ==
 
